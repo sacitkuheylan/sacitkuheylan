@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sacit</h1>
 <h3 align="center">Embedded Software Engineer from Antalya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sacitkuheylan&label=Profile%20views&color=0e75b6&style=flat" alt="sacitkuheylan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sacitkuheylan" alt="sacitkuheylan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sacitkuheylan" target="blank"><img src="https://img.shields.io/twitter/follow/sacitkuheylan?logo=twitter&style=for-the-badge" alt="sacitkuheylan" /></a> </p>
-
 - 🔭 I’m currently working on **Embedded Software for Physical 2FA Authentication**
 
 - 🌱 I’m currently learning **Qt Framework**
@@ -38,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacitkuheylan&show_icons=true&locale=en&layout=compact" alt="sacitkuheylan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sacitkuheylan&show_icons=true&locale=en" alt="sacitkuheylan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sacitkuheylan&" alt="sacitkuheylan" /></p>
