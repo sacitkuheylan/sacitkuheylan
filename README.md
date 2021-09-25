@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sacitkuheylan.tech](https://sacitkuheylan.tech)
 
-- 📝 I regularly write articles on [https://blog.sacitkuheylan.tech](https://blog.sacitkuheylan.tech)
+- 📝 I regularly write articles on [https://medium.com/@sacitkuheylan](https://medium.com/@sacitkuheylan)
 
 - 💬 Ask me about **Bare-Metal Programming, Network Programming, C, C++, C#**
 
