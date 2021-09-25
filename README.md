@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://blog.sacitkuheylan.tech](https://blog.sacitkuheylan.tech)
 
-- 💬 Ask me about **C, C++, C#, ASP .NET Core**
+- 💬 Ask me about **Bare-Metal Programming, Network Programming, C, C++, C#**
 
 - 📫 How to reach me **sacit.kuheylan@yandex.com**
 
