@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Various Embedded Projects**
 
-- 👨‍💻 All of my projects are available at [https://sacitkuheylan.tech](https://sacitkuheylan.tech)
+- 👨‍💻 All of my projects are available at [https://github.com/sacitkuheylan](https://github.com/sacitkuheylan)
 
 - 📝 I regularly write articles on [https://medium.com/@sacitkuheylan](https://medium.com/@sacitkuheylan)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sacit.kuheylan@yandex.com**
 
-- 📄 Know about my experiences [https://sacitkuheylan.tech/resume](https://sacitkuheylan.tech/resume)
+- 📄 Know about my experiences [https://bit.ly/3C7NZ2d](https://bit.ly/3C7NZ2d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
