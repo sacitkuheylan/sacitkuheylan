@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sacit</h1>
-<h3 align="center">Embedded Software Engineer from Antalya</h3>
+<h3 align="center">Software Engineer from Antalya</h3>
 
 - 🔭 I’m currently working on **Embedded Software for Physical 2FA Authentication**
 
