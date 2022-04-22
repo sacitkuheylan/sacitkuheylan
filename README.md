@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sacit</h1>
 <h3 align="center">Software Engineer from Antalya</h3>
 
-- 🔭 I’m currently working on **Embedded Software for Physical 2FA Authentication**
+- 🔭 I’m currently working on **Physical 2FA Authentication Device**
 
-- 🌱 I’m currently learning **Qt Framework**
-
-- 👯 I’m looking to collaborate on **Various Embedded Projects**
+- 🌱 I’m currently learning **Java Spring Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sacitkuheylan](https://github.com/sacitkuheylan)
 
 - 📝 I regularly write articles on [https://medium.com/@sacitkuheylan](https://medium.com/@sacitkuheylan)
-
-- 💬 Ask me about **Bare-Metal Programming, Network Programming, C, C++, C#**
 
 - 📫 How to reach me **sacit.kuheylan@yandex.com**
 
